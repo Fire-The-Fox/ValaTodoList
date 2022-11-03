@@ -16,7 +16,9 @@ int main (string[] argv) {
             string line;
     
             while ((line = dis.read_line ()) != null) {
-                todos.add(line);
+                if (line.length > 0) {
+                    todos.add(line);
+                }
             }
         } catch (Error e) {
             print ("Error: %s\n", e.message);
