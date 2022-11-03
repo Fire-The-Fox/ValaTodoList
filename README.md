@@ -10,3 +10,6 @@ From my perspective, Vala is easy to use but hard to learn and missing documenta
 
 ## Issues
 providing too many thing that needs to be done resolves in very tall window
+
+### Issues not reallated to project by Vala on my system
+the compiler says to use G_APPLICATION_DEFAULT_FLAGS ( GLib.ApplicationFlags.DEFAULT_FLAGS ) even docs says so, but the vala says it doesn't exist
