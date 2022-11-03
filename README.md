@@ -6,5 +6,7 @@ I always wanted to try Vala and it was not the best experience. I was getting st
 
 GNOME devs ❤️👍
 
+From my perspective, Vala is easy to use but hard to learn and missing documentation is really something that is annoying
+
 ## Issues
 providing too many thing that needs to be done resolves in very tall window
